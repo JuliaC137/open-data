@@ -118,6 +118,8 @@ for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geo
 ```
 
 Output:
+
+
 ![Karte Beratzhausen mit Kitas und Krippen](./figures/beratzhausen_krippen.svg)
 
 Kartenausschnitt mit Krippen in höherer Auflösung
