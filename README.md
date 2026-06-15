@@ -122,7 +122,7 @@ Output:
 
 ![Karte Beratzhausen mit Kitas und Krippen](./figures/beratzhausen_krippen.svg)
 
-Kartenausschnitt mit Krippen in höherer Auflösung
+Kartenausschnitt mit Krippen in höherer Auflösung:
 ```python
 xmin, ymin, xmax, ymax = krippen_beratzhausen.total_bounds
 dx = xmax - xmin
@@ -131,7 +131,7 @@ ax.set_xlim(xmin - 0.5 * dx, xmax + 0.5 * dx)
 ax.set_ylim(ymin - 0.5 * dy, ymax + 0.5 * dy)
 ```
 
-Straßen hinzufügen
+Straßen hinzufügen:
 ```python
 beratz_streets.plot(ax = ax, color = street_color, linewidth = 0.5)
 ```
