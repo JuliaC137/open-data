@@ -8,7 +8,6 @@ print('imported')
 #Map data lkr Regensburg
 lkr = ox.geocode_to_gdf('Landkreis Regensburg, Bavaria, Germany') #erstellt geodataframe von Lkr Regensburg
 
-
 # Load GeoJSON data with Kita information 
 kitas = gpd.read_file('items.json')
 
@@ -30,7 +29,7 @@ kitas.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, labe
 ax.legend()
 plt.show()
 f.savefig(
-    "lkr_regensburg_kitas.svg",
+    "figures/lkr_regensburg_kitas.svg",
     dpi=400,
     bbox_inches="tight"
 )
@@ -47,18 +46,19 @@ krippen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_krippe_color, 
 ax.legend()
 plt.show()
 f.savefig(
-    "lkr_regensburg_krippen.svg",
+    "figures/lkr_regensburg_krippen.svg",
     dpi=400,
     bbox_inches="tight"
 )
 
 #Use Beratzhausen as example
-beratzhausen = ox.geocode_to_gdf('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany') #geodataframe Gemeinde Beratzhausen
+beratzhausen_geocode = 'Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany'
+beratzhausen = ox.geocode_to_gdf(beratzhausen_geocode) #geodataframe Gemeinde Beratzhausen
 #Get more details from Beratzhausen (buildings, streets)
-beratz_buildings = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"building": True})
-beratz_landuse = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"landuse": True})
-beratz_streets = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"highway": True})
-beratz_water = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"water": True, "waterway": True, "natural": "water"})
+beratz_buildings = ox.features.features_from_place(beratzhausen_geocode, {"building": True})
+beratz_landuse = ox.features.features_from_place(beratzhausen_geocode, {"landuse": True})
+beratz_streets = ox.features.features_from_place(beratzhausen_geocode, {"highway": True})
+beratz_water = ox.features.features_from_place(beratzhausen_geocode, {"water": True, "waterway": True, "natural": "water"})
 
 #Get Kitas in Beratzhausen
 kitas_beratzhausen = kitas[(kitas['plz_ort'] == '93176 Beratzhausen')]
@@ -74,7 +74,7 @@ kitas_beratzhausen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kit
 ax.legend()
 plt.show()
 f.savefig(
-    "beratzhausen_kitas.svg",
+    "figures/beratzhausen_kitas.svg",
     dpi=400,
     bbox_inches="tight"
 )
@@ -98,7 +98,7 @@ for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geo
     ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 10)
 plt.show()
 f.savefig(
-    "beratzhausen_krippen.svg",
+    "figures/beratzhausen_krippen.svg",
     dpi=400,
     bbox_inches="tight"
 )
@@ -125,7 +125,17 @@ for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geo
     ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 20)
 plt.show()
 f.savefig(
-    "beratzhausen_krippen_ausschnitt.svg",
+    "figures/beratzhausen_krippen_ausschnitt.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
+
+
+f, ax = plt.subplots(figsize = (16, 9))
+lkr.plot(ax = ax, color = 'lightblue', linewidth = 0.5)
+plt.show()
+f.savefig(
+    "figures/lkr_regensburg.svg",
     dpi=400,
     bbox_inches="tight"
 )
