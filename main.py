@@ -12,10 +12,22 @@ lkr = ox.geocode_to_gdf('Landkreis Regensburg, Bavaria, Germany') #erstellt geod
 # Load GeoJSON data with Kita information 
 kitas = gpd.read_file('items.json')
 
+#Define map colors
+boundary_color = "black"
+street_color = "black"
+landuse_color = 'lightgreen'
+buildings_color = 'orange'
+building_edges = "black"
+water_color = 'lightblue'
+marker_kita_color = 'blue'
+marker_krippe_color = 'red'
+
+
 #Plot map of Lkr Regensburg with locations of Kitas
 f, ax = plt.subplots(figsize = (16, 9))
-lkr.boundary.plot(ax=ax, color = 'lightblue')
-kitas.plot(ax=ax, marker= 'x', markersize= 10, color = 'black')
+lkr.boundary.plot(ax=ax, color = boundary_color, linewidth = 0.5)
+kitas.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
+ax.legend()
 plt.show()
 
 #Child under 3 years >> Krippen
@@ -24,87 +36,74 @@ kitas_ohne_krippe = kitas[(kitas['krippe'] == False)]
 
 #Plot map with Kitas for children < and > 3 years
 f, ax = plt.subplots(figsize = (16, 9))
-lkr.boundary.plot(ax=ax, color = 'lightblue')
-kitas_ohne_krippe.plot(ax=ax, marker= 'x', markersize= 10, color = 'black')
-krippen.plot(ax=ax, marker= 'o', markersize= 10, color = 'red')
+lkr.boundary.plot(ax=ax, color = boundary_color, linewidth = 0.5)
+kitas_ohne_krippe.plot(ax = ax, marker= 'x', markersize= 10, color = marker_kita_color, label='Kita ohne Krippe')
+krippen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_krippe_color, label = 'Krippe')
 ax.legend()
 plt.show()
 
 #Use Beratzhausen as example
 beratzhausen = ox.geocode_to_gdf('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany') #geodataframe Gemeinde Beratzhausen
-#Get more details from Beratzhausen (buildings)
-beratz_details = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"building": True, "amenities": True})
+#Get more details from Beratzhausen (buildings, streets)
+beratz_buildings = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"building": True})
+beratz_landuse = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"landuse": True})
+beratz_streets = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"highway": True})
+beratz_water = ox.features.features_from_place('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany', {"water": True, "waterway": True, "natural": "water"})
 
 #Get Kitas in Beratzhausen
 kitas_beratzhausen = kitas[(kitas['plz_ort'] == '93176 Beratzhausen')]
 
 #Plot Kitas in Beratzhausen
 f, ax = plt.subplots(figsize = (16, 9))
-beratzhausen.boundary.plot(ax=ax, color = 'black')
-beratz_details.plot(ax = ax, color = 'lightblue')
-kitas_beratzhausen.plot(ax=ax, marker= 'x', markersize= 10, color = 'green')
+beratzhausen.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
+#beratz_streets.plot(ax = ax, color = street_color, linewidth = 0.5)
+beratz_landuse.plot(ax = ax, color = landuse_color, alpha = 0.35)
+beratz_water.plot(ax = ax, color = water_color, alpha = 0.35)
+beratz_buildings.plot(ax = ax, color = buildings_color, alpha = 0.6)
+kitas_beratzhausen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
+ax.legend()
 plt.show()
 
 #Krippen in Beratzhausen
-krippen_beratzhausen = kitas_beratzhausen[(kitas['krippe'] == True)]
+krippen_beratzhausen = kitas_beratzhausen[(kitas_beratzhausen['krippe'] == True)]
 kitas_ohne_krippe_beratzhausen = kitas_beratzhausen[(kitas['krippe'] == False)]
 
 #Plot Krippen in Beratzhausen
 f, ax = plt.subplots(figsize = (16, 9))
-beratzhausen.boundary.plot(ax=ax, color = 'black')
-beratz_details.plot(ax = ax, color = 'blue')
-kitas_ohne_krippe_beratzhausen.plot(ax=ax, marker= 'x', markersize= 20, color = 'black')
-krippen_beratzhausen.plot(ax=ax, marker= 'o', markersize= 20, color = 'red')
+beratzhausen.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
+#beratz_streets.plot(ax = ax, color = street_color, linewidth = 0.5)
+beratz_landuse.plot(ax = ax, color = landuse_color, alpha = 0.35)
+beratz_water.plot(ax = ax, color = water_color, alpha = 0.35)
+beratz_buildings.plot(ax = ax, color = buildings_color, alpha = 0.6)
+kitas_ohne_krippe_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_kita_color, label='Kitas ohne Krippe')
+krippen_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_krippe_color, label='Krippen')
+ax.legend()
 #show names of Krippen
 for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
-    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
+    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 10)
 plt.show()
 
-#Names of Krippen in Beratzhausen
-#f, ax = plt.subplots(figsize = (16, 9))
-#beratzhausen.boundary.plot(ax=ax, color = 'lightblue')
-#kitas_ohne_krippe_beratzhausen.plot(ax=ax, marker= 'x', markersize= 20, color = 'black')
-#krippen_beratzhausen.plot(ax=ax, marker= 'o', markersize= 20, color = 'red')
-#for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
-#    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
-#plt.show
-#
-#
 
-##keine_krippen = kitas[(kitas['krippe'] == False)]
-##print(len(kitas),len(krippen), len(keine_krippen))
-#
-#
-#
-#f, ax = plt.subplots(figsize = (16, 9))
-#
-#beratzhausen.boundary.plot(ax = ax, color = 'lightblue')
-#krippen_beratzhausen.plot(ax = ax, marker = 'o')
-
-
-
-#kitas_beratzhausen.plot(ax=ax, marker= 'x', markersize= 20, color = 'black')
-
-#for x, y, label in zip(krippen.geometry.x, krippen.geometry.y, krippen.name):
-##    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
-##
-#ax = kitas_ohne_krippe_beratzhausen.plot(ax = ax, marker = 'x')
-#for x, y, label in zip(kitas_ohne_krippe_beratzhausen.geometry.x, kitas_ohne_krippe_beratzhausen.geometry.y, kitas_ohne_krippe_beratzhausen.name):
-#    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
-#    print(label)
-#plt.show
-##
-
-## Plot the graph
+#Plot Krippen in Beratzhausen
+f, ax = plt.subplots(figsize = (16, 9))
+beratzhausen.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
+beratz_streets.plot(ax = ax, color = street_color, linewidth = 0.5)
+beratz_landuse.plot(ax = ax, color = landuse_color, alpha = 0.35)
+beratz_water.plot(ax = ax, color = water_color, alpha = 0.35)
+beratz_buildings.plot(ax = ax, color = buildings_color, edgecolor = building_edges, alpha = 0.6)
+kitas_ohne_krippe_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_kita_color, label='Kitas ohne Krippe')
+krippen_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_krippe_color, label='Krippen')
+#Nur Ausschnitt mit Krippen
+xmin, ymin, xmax, ymax = krippen_beratzhausen.total_bounds
+dx = xmax - xmin
+dy = ymax - ymin
+ax.set_xlim(xmin - 0.5*dx, xmax + 0.5*dx)
+ax.set_ylim(ymin - 0.5*dy, ymax + 0.5*dy)
+ax.legend()
+#show names of Krippen
+for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
+    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 20)
+plt.show()
 
 
-
-
-
-#ax = krippen.plot(figsize = (20, 10))
-#
-#for x, y, label in zip(krippen.geometry.x, krippen.geometry.y, krippen.name):
-#    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
-#
-#plt.show()
 print('hjg')
