@@ -7,6 +7,7 @@
 ##### vom 31.01.2026
 
 Datenbereitsteller Landkreis Regensburg<sup>*</sup>
+
 *<sub>https://lk-regensburg.bydata.de/datasets/https-lk-regensburg-bydata-de-dataset-kindertagesbetreuung~~1?locale=de</sub>
 
 Kartendaten OpenStreetMap Contributers und Python Bibliothek OSMnx<sup>*</sup>
@@ -36,8 +37,8 @@ kitas = gpd.read_file('items.json')
 Kita-Standorte auf Karte darstellen:
 ```python
 f, ax = plt.subplots(figsize = (16, 9))
-lkr.boundary.plot(ax=ax, color = boundary_color, linewidth = 0.5)
-kitas.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
+lkr.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
+kitas.plot(ax = ax, marker = 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
 ax.legend()
 plt.show()
 ```
@@ -53,9 +54,9 @@ kitas_ohne_krippe = kitas[(kitas['krippe'] == False)]
 Neue Karte mit farbig markierten Krippen-Standorten:
 ```python
 f, ax = plt.subplots(figsize = (16, 9))
-lkr.boundary.plot(ax=ax, color = boundary_color, linewidth = 0.5)
-kitas_ohne_krippe.plot(ax = ax, marker= 'x', markersize= 10, color = marker_kita_color, label='Kita ohne Krippe')
-krippen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_krippe_color, label = 'Krippe')
+lkr.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
+kitas_ohne_krippe.plot(ax = ax, marker= 'x', markersize = 10, color = marker_kita_color, label='Kita ohne Krippe')
+krippen.plot(ax = ax, marker = 'x', markersize = 25, color = marker_krippe_color, label = 'Krippe')
 ax.legend()
 plt.show()
 ```
@@ -66,7 +67,7 @@ Kind soll im Beispiel in der Gemeinde Beratzhausen betreut werden.
 
 ```python
 beratzhausen_geocode = 'Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany'
-beratzhausen = ox.geocode_to_gdf(beratzhausen_geocode) #geodataframe Gemeinde Beratzhausen
+beratzhausen = ox.geocode_to_gdf(beratzhausen_geocode)
 ```
 Mehr Details zu Gemeinde Beratzhausen hinzufügen:
 ```python
@@ -82,7 +83,7 @@ beratzhausen.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
 beratz_landuse.plot(ax = ax, color = landuse_color, alpha = 0.35)
 beratz_water.plot(ax = ax, color = water_color, alpha = 0.35)
 beratz_buildings.plot(ax = ax, color = buildings_color, alpha = 0.6)
-kitas_beratzhausen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
+kitas_beratzhausen.plot(ax = ax, marker = 'x', markersize = 25, color = marker_kita_color, label = 'Kita')
 ax.legend()
 plt.show()
 ```
@@ -103,8 +104,8 @@ beratzhausen.boundary.plot(ax = ax, color = boundary_color, linewidth = 0.5)
 beratz_landuse.plot(ax = ax, color = landuse_color, alpha = 0.35)
 beratz_water.plot(ax = ax, color = water_color, alpha = 0.35)
 beratz_buildings.plot(ax = ax, color = buildings_color, alpha = 0.6)
-kitas_ohne_krippe_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_kita_color, label='Kitas ohne Krippe')
-krippen_beratzhausen.plot(ax = ax, marker= 'x', markersize= 30, color = marker_krippe_color, label='Krippen')
+kitas_ohne_krippe_beratzhausen.plot(ax = ax, marker = 'x', markersize = 30, color = marker_kita_color, label='Kita ohne Krippe')
+krippen_beratzhausen.plot(ax = ax, marker = 'x', markersize = 30, color = marker_krippe_color, label='Krippen')
 ax.legend()
 plt.show()
 ```
@@ -113,7 +114,7 @@ Namen der Krippen sollen angezeigt werden:
 
 ```python
 for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
-    ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 10)
+    ax.annotate(label, xy = (x, y), xytext = (3, 3), textcoords = "offset points", color = 'black', fontsize = 10)
 ```
 
 Output:
@@ -124,8 +125,8 @@ Kartenausschnitt mit Krippen in höherer Auflösung
 xmin, ymin, xmax, ymax = krippen_beratzhausen.total_bounds
 dx = xmax - xmin
 dy = ymax - ymin
-ax.set_xlim(xmin - 0.5*dx, xmax + 0.5*dx)
-ax.set_ylim(ymin - 0.5*dy, ymax + 0.5*dy)
+ax.set_xlim(xmin - 0.5 * dx, xmax + 0.5 * dx)
+ax.set_ylim(ymin - 0.5 * dy, ymax + 0.5 * dy)
 ```
 
 Straßen hinzufügen
