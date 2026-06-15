@@ -1,0 +1,4340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.204909485516337,
+          48.920672448481284
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Laurentius Alteglofsheim",
+        "traeger": "Kath. Kirchenstiftung Alteglofsheim",
+        "str_hnr": "Kirchplatz 3",
+        "plz_ort": "93087 Alteglofsheim",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-alteglofsheim@t-online.de",
+        "link": "https://www.kindergarten-alteglofsheim.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.200447278234618,
+          48.927565863318904
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Waldkindergarten Alteglofsheim",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Ellen-Ammann-Straße 6",
+        "plz_ort": "93087 Alteglofsheim",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waldkindergarten.alteglofsheim@johanniter.de",
+        "link": "https://www.johanniter.de/waldkindergarten-alteglofsheim",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.200447278234618,
+          48.927565863318904
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Weitblick ",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Ellen-Ammann-Straße 6",
+        "plz_ort": "93087 Alteglofsheim",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.alteglofsheim@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-alteglofsheim",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.303344428365337,
+          49.09130372083261
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindertagesstätte St. Nikolaus Altenthann",
+        "traeger": "Kath. Kirchenstiftung Altenthann",
+        "str_hnr": "Johannisbreite 3",
+        "plz_ort": "93177 Altenthann, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten-altenthann@t-online.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.285345207953048,
+          48.872754204711946
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Philipp Neri ",
+        "traeger": "Nerianerstiftung Aufhausen",
+        "str_hnr": "Seidenbuschstraße 16",
+        "plz_ort": "93089 Aufhausen, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.aufhausen@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27077161523938,
+          48.87197306253666
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderhaus Laberspatzen",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Am Fürberg 2",
+        "plz_ort": "93089 Aufhausen, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.aufhausen@johanniter.de",
+        "link": "https://www.johanniter.de/kinderhaus-aufhausen",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.302701105115018,
+          49.01988903912065
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Mariä Geburt",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Zum Altwasser 2",
+        "plz_ort": "93090 Bach an der Donau",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "bach@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.195819696330606,
+          49.00432862802751
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Martin Barbing",
+        "traeger": "Kath. Kirchenstiftung Barbing",
+        "str_hnr": "Kirchstraße 27",
+        "plz_ort": "93092 Barbing",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "leitung@kita-barbing.de",
+        "link": "https://www.kita-barbing.de ",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.234804884606344,
+          49.01335442446145
+        ]
+      },
+      "properties": {
+        "name": "Kindertageseinrichtung Bruder-Klaus Sarching",
+        "traeger": "Kath. Kirchenstiftung Mariä Himmelfahrt, Sarching",
+        "str_hnr": "Rosenhofer Straße 13",
+        "plz_ort": "93092 Barbing",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "leitung@kita-sarching.de",
+        "link": "https://www.kita-sarching.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.193724688220836,
+          49.00151962440494
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Barbini",
+        "traeger": "Kath. Kirchenstiftung Barbing",
+        "str_hnr": "Mohnweg 2a",
+        "plz_ort": "93092 Barbing",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "leitung@kita-barbing.de",
+        "link": "https://www.kita-barbing.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.205052621813444,
+          49.00005044472226
+        ]
+      },
+      "properties": {
+        "name": "RKT-Kinderhaus Barbing",
+        "traeger": "RKT Rettungsdienst gGmbH",
+        "str_hnr": "Mintrachinger Straße 24",
+        "plz_ort": "93092 Barbing",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.barbing@rkt.eu",
+        "link": "https://rkt.eu/kindertagestaetten",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19190227071318,
+          49.001685633946764
+        ]
+      },
+      "properties": {
+        "name": "RKT-Kinderhort Regenbogen",
+        "traeger": "RKT Rettungsdienst gGmbH",
+        "str_hnr": "Rosenweg 1b",
+        "plz_ort": "93092 Barbing",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.barbing@rkt-rettungsdienst.eu",
+        "link": "https://rkt.eu/kindertagestaetten",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.804923090841642,
+          49.09569858227364
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhaus Gerhardinger",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Kindergartenweg 2",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "gerhardingerkindergarten@t-online.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85047830773045,
+          49.14563698290456
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Martin Oberpfraundorf",
+        "traeger": "Kath. Kirchenstiftung Oberpfraundorf",
+        "str_hnr": "Dorfstraße 53b",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.oberpfraundorf@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.803362647572714,
+          49.095991132488535
+        ]
+      },
+      "properties": {
+        "name": "Gerhardinger Kinderhort",
+        "traeger": "Markt Beratzhausen",
+        "str_hnr": "Schulweg 8",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort@beratzhausen.com",
+        "link": "http://www.beratzhausen.com",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.803362647572714,
+          49.095991132488535
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten an der Grundschule",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Schulweg 8",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "gerhardingerkindergarten@t-online.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.816407449385597,
+          49.12722750931513
+        ]
+      },
+      "properties": {
+        "name": "BRK Waldkindergarten Rumpeltrolle",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Grametshof 4",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waki-rumpeltrolle.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.820971068909689,
+          49.09831456076931
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten St. Nikolaus",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Deutschneudorfer Straße 28",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-st.nikolaus.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.82145475020694,
+          49.09832468336795
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe St. Nikolaus",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Deutschneudorfer Straße 28a",
+        "plz_ort": "93176 Beratzhausen",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-st.nikolaus.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.247408554344231,
+          49.08730636295727
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Unterm Himmelszelt Bernhardswald",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kreuther Straße 22a",
+        "plz_ort": "93170 Bernhardswald",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.bernhardswald@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-bernhardswald",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.213167388038677,
+          49.12226016731782
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Kürn",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Römerstraße 4",
+        "plz_ort": "93170 Bernhardswald",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.kuern@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-kürn",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28018681418503,
+          49.13851295898678
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Lambertiwichtel",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Hauzendorfer Straße 5",
+        "plz_ort": "93170 Bernhardswald",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.lambertsneukirchen@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-lambertsneukirchen",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.247408554344231,
+          49.08730636295727
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Bernhardswald",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kreuther Straße 22a",
+        "plz_ort": "93170 Bernhardswald",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.bernhardswald@johanniter.de",
+        "link": "https://www.johanniter.de/Kinderkrippe-Bernhardswald",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.249224760903102,
+          49.08677563143508
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Naturentdecker",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kreuther Straße 22",
+        "plz_ort": "93170 Bernhardswald",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.bernhardswald@johanniter.de",
+        "link": "https://www.johanniter.de/kinderhort-bernhardswald",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.398019063521796,
+          49.06991316472263
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Raphael Brennberg",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Höllbachstraße 3",
+        "plz_ort": "93179 Brennberg, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "brennberg@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.390654249046406,
+          49.06847522744673
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Brennberg",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Johannisstraße 8",
+        "plz_ort": "93179 Brennberg, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe.brennberg@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90773639396764,
+          49.07746576686542
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderhaus Frauenberg",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kapellenweg 5",
+        "plz_ort": "93164 Brunn, Kreis Regensburg",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.frauenberg@johanniter.de",
+        "link": "https://www.johanniter-kinderhaus-frauenberg.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.915642786195656,
+          49.07787040284857
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Marien ",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Hochweg 36",
+        "plz_ort": "93164 Brunn, Kreis Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "frauenberg@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.905796152542191,
+          49.034262734698906
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderhort Fuchsbau",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Am Kirchberg 14",
+        "plz_ort": "93180 Deuerling",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.deuerling@johanniter.de",
+        "link": "https://www.johanniter-kinderhort-fuchsbau-in-deuerling",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90703800365268,
+          49.03402656595658
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Bergzwergerl",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Am Kirchberg 8",
+        "plz_ort": "93180 Deuerling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.deuerling@johanniter.de",
+        "link": "https://www.johanniter-bergzwergerl-deuerling.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.905796152542191,
+          49.034262734698906
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Frechdachs",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Am Kirchberg 14",
+        "plz_ort": "93180 Deuerling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.deuerling@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kindergarten-frechdachse-in-deuerling-462/",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.909223473175103,
+          49.03119257404412
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderkrippe Talwichtel ",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Steinerbrückler Weg 20",
+        "plz_ort": "93180 Deuerling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Kinderkrippe-talwichtel.deuerling@johanniter.de",
+        "link": "https://www.johanniter.de/johanniter-kinderkrippe-talwichtel-in-deuerling-4235/",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20923256895997,
+          49.03030080929672
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten Albertus-Magnus-Haus Donaustauf",
+        "traeger": "Kath. Kirchenstiftung Donaustauf",
+        "str_hnr": "Taxisstraße 3",
+        "plz_ort": "93093 Donaustauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.donaustauf@bistum-regensburg.de",
+        "link": "https://www.pfarrei-donaustauf-bach.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2000852179807,
+          49.03139456552732
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindertagesstätte Burgspatzen",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Frankenstraße 13",
+        "plz_ort": "93093 Donaustauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kindergarten.donaustauf@johanniter.de",
+        "link": "https://johanniter.de/kindergarten-burgspatzen",
+        "einrichtungstypen_liste": "Kindergarten, Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21073238452464,
+          49.033527403894375
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Burgzwergerl",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Jahnstraße 9a",
+        "plz_ort": "93093 Donaustauf",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.donaustauf@johanniter.de",
+        "link": "https://www.johanniter-kinderkrippe-donaustauf.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21112139838439,
+          49.03429584570629
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhaus Burgmäuse",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Jahnstraße 11",
+        "plz_ort": "93093 Donaustauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhaus.donaustauf@johanniter.de",
+        "link": "https://www.johanniter-kinderhaus-burgmaeuse-donaustauf.de",
+        "einrichtungstypen_liste": "Kindergarten, Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.928329031838194,
+          49.111052515750345
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Maria Duggendorf",
+        "traeger": "Kath. Kirchenstiftung Duggendorf",
+        "str_hnr": "Fr.-v.-Schiller-Straße 18",
+        "plz_ort": "93182 Duggendorf",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.duggendorf@bistum-regenburg.de",
+        "link": "https://www.pg-kall-dugg.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.916587837224606,
+          49.11176709688454
+        ]
+      },
+      "properties": {
+        "name": "BRK Waldkindergarten Baumstammhüpfer",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Weinberg ",
+        "plz_ort": "93182 Duggendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waki-duggendorf.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kindergaerten/waldkindergarten-baumstammhuepfer-duggendorf.html",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.218945320469274,
+          48.89477551390935
+        ]
+      },
+      "properties": {
+        "name": "Kindertagesstätte  St. Josef Hagelstadt",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Sudetenstraße 6",
+        "plz_ort": "93095 Hagelstadt",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "hagelstadt@caritas-kitas.de",
+        "link": "https://www.kindergarten.hagelstadt.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.78870091588766,
+          49.050367988322186
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten Dr. Paul Josef Nardini ",
+        "traeger": "Kath. Kinderheim Hemau e.V. ",
+        "str_hnr": "Regensburger Straße 21",
+        "plz_ort": "93155 Hemau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten@nardini-hemau.de",
+        "link": "https://www.kindergarten-nardini-hemau.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.786709612244714,
+          49.05765673199109
+        ]
+      },
+      "properties": {
+        "name": "Integrativer BRK Kindergarten St. Barbara",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Beratzhausener Straße 52",
+        "plz_ort": "93155 Hemau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-st.barbara.210@brk.de",
+        "link": "https://www.brk-regensburg.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.786881797906187,
+          49.04940985488195
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Raphael Hemau",
+        "traeger": "Kath. Kirchenstiftung Hemau",
+        "str_hnr": "Sr.-Dina-Weg 1",
+        "plz_ort": "93155 Hemau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.hemau@bistum-regensburg.de",
+        "link": "https://www.kindergarten.kirche-hemau.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.786709612244714,
+          49.05765673199109
+        ]
+      },
+      "properties": {
+        "name": "BRK Waldkindergarten Wurzelzwerge Hemau",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Beratzhausener Straße 52",
+        "plz_ort": "93155 Hemau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waki-wurzelzwerge.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.791861357285686,
+          49.05256010140278
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Krabbelkiste",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Haager Straße 14a",
+        "plz_ort": "93155 Hemau",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Krippe-krabblkiste.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kinderkrippen/krabbelkiste-hemau.html",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.847206149753765,
+          49.0388130684682
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhaus Hohenschambach",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Hochstraße 24",
+        "plz_ort": "93155 Hemau",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.hohenschambach@johanniter.de",
+        "link": "https://www.johanniter.de/Kinderhaus-Hohenschambach",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.782569753089053,
+          49.059582907060886
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhaus Wiesenwind",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Wittelsbacherstraße 22",
+        "plz_ort": "93155 Hemau",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-hemau.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.99880626098015,
+          49.14517808647726
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhaus Holzwichtl",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Kirchenstraße 9a",
+        "plz_ort": "93183 Holzheim am Forst",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-holzwichtl.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kinderhaeuser/holzwichtl-holzheim-am-forst.html",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960396151624959,
+          49.16227422850569
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Michael Kallmünz",
+        "traeger": "Kath. Kirchenstiftung Kallmünz",
+        "str_hnr": "Kindergartenstraße 1",
+        "plz_ort": "93183 Kallmünz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.kallmuenz@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960561273064547,
+          49.162560687716905
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe KALLe",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kindergartenstraße 5",
+        "plz_ort": "93183 Kallmünz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe.kallmuenz@johanniter.de",
+        "link": "https://www.johanniter-kinderkrippe-kallmünz.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.202685736719513,
+          48.93414545394987
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderkrippe KoAla-Nest",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Dendorferstraße 2",
+        "plz_ort": "93096 Köfering bei Regensburg",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.koefering@johanniter.de",
+        "link": "https://www.johanniter.de/kinderkrippe-koefering",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.202916484813745,
+          48.93385246524806
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kindergarten KoAla-Nest",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Dendorferstraße 2a",
+        "plz_ort": "93096 Köfering bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.koefering@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-koefering",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.191128849943112,
+          48.94046940095451
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten Lerchennest",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Egglfinger Straße 14",
+        "plz_ort": "93096 Köfering bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-lerchennest.210@brk.de",
+        "link": "https://www.brk-regensburg.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88616359817267,
+          49.06349278356539
+        ]
+      },
+      "properties": {
+        "name": "Kiga+ Krippe im  Kath. Kindergarten St. Franziskus Laaber",
+        "traeger": "Kath. Kirchenstiftung St. Jakobus, Laaber",
+        "str_hnr": "Talweg 2",
+        "plz_ort": "93164 Laaber, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.laaber@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.921201556332367,
+          49.04314291570939
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Markus ",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Markusweg 1",
+        "plz_ort": "93164 Laaber, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "waldetzenberg@caritas-kitas.de",
+        "link": "https://wwwkindergarten-waldetzenberg.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.883381811750528,
+          49.06257250632602
+        ]
+      },
+      "properties": {
+        "name": "Schulkindbetreuung  im Kath. Kindergarten St. Franziskus Laaber",
+        "traeger": "Kath. Kirchenstiftung St. Jakobus, Laaber",
+        "str_hnr": "Am Kalvarienberg 2",
+        "plz_ort": "93164 Laaber, Oberpfalz",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kita.laaber@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.882166834188968,
+          49.06460707629747
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhaus Burgspatzen",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Jakobstraße 4",
+        "plz_ort": "93164 Laaber, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-burgspatzen.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kinderhaeuser/burgspatzen-laaber.html",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.892420724399784,
+          49.06430461342864
+        ]
+      },
+      "properties": {
+        "name": "St. Nikolaus",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Talweg 30",
+        "plz_ort": "93164 Laaber, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "laaber@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08990730695394,
+          49.05198479519134
+        ]
+      },
+      "properties": {
+        "name": "Inklusionskindergarten ",
+        "traeger": "Kath. Jugendfürsorge der Diözese Regensburg e.V.",
+        "str_hnr": "Pielmühler Straße 7",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "info@kindergarten-lappersdorf.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.052270001373715,
+          49.07275158047129
+        ]
+      },
+      "properties": {
+        "name": "Bischof-Wittmann-Kinderhaus Hainsacker",
+        "traeger": "Kath. Jugendfürsorge der Diözese Regensburg e.V.",
+        "str_hnr": "Schulberg 7",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "info@kinderhaus-hainsacker.de",
+        "link": "https://www.bischof-wittmann-zentrum.de/de/web/guest/kinderhaus-hainsacker",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.088724081159583,
+          49.038361264973354
+        ]
+      },
+      "properties": {
+        "name": "Kinder-Familien-Haus St. Elisabeth Kareth",
+        "traeger": "Kath. Kirchenstiftung St. Elisabeth, Kareth",
+        "str_hnr": "Bajuwarenstraße 8",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "leitung@kinderhaus-kareth.de",
+        "link": "https://kinderhaus-kareth.de",
+        "einrichtungstypen_liste": "Kindergarten, Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.051779940154082,
+          49.07344960548895
+        ]
+      },
+      "properties": {
+        "name": "Kinderhort Hainsacker",
+        "traeger": "Markt Lappersdorf",
+        "str_hnr": "Schulberg 12",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "leitung.horthainsacker@lappersdorf.de",
+        "link": "",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086769958553761,
+          49.042421933593765
+        ]
+      },
+      "properties": {
+        "name": "Krabbelstube Lappersdorf",
+        "traeger": "Markt Lappersdorf",
+        "str_hnr": "Am Silbergarten 4",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krabbelstube@lappersdorf.de",
+        "link": "https://www.lappersdorf.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086181733085542,
+          49.04148080907218
+        ]
+      },
+      "properties": {
+        "name": "Kinderhort Lappersdorf",
+        "traeger": "Markt Lappersdorf",
+        "str_hnr": "Bergstraße 48",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "hort.lappersdorf@lappersdorf.de",
+        "link": "https://www.lappersdorf.de",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.072909195027647,
+          49.06563700088932
+        ]
+      },
+      "properties": {
+        "name": "Waldkindergarten Lappersdorf",
+        "traeger": "h \u0026 b learning gemeinnützige GmbH",
+        "str_hnr": "Einhausen 51",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "wkg.lappersdorf@hb-learning.de",
+        "link": "https://hb-learning.de/",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.083903105135029,
+          49.04452971871617
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Am Sportzentrum",
+        "traeger": "Markt Lappersdorf",
+        "str_hnr": "Am Sportzentrum 1a",
+        "plz_ort": "93138 Lappersdorf, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.sportzentrum@lappersdorf.de",
+        "link": "https://www.lappersdorf.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.240150238349898,
+          48.95366444833167
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kinderhaus St. Raphael Mintraching",
+        "traeger": "Kath. Kirchenstiftung Mintraching",
+        "str_hnr": "Hauptstraße 14",
+        "plz_ort": "93098 Mintraching, Kreis Regensburg",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "wegbegleiter@kinderhaus-mintraching.de",
+        "link": "https://www.kinderhaus-mintraching.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.266550707268525,
+          48.92510832607163
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Michael Moosham",
+        "traeger": "Kath. Kirchenstiftung Moosham",
+        "str_hnr": "Puricellistraße 23",
+        "plz_ort": "93098 Mintraching, Kreis Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.moosham@bistum-regensburg.de",
+        "link": "https://www.kindergarten-moosham.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238525883601367,
+          48.95128110209382
+        ]
+      },
+      "properties": {
+        "name": "Kinderhort Mintraching",
+        "traeger": "Gemeinde Mintraching",
+        "str_hnr": "Schulstraße 2a",
+        "plz_ort": "93098 Mintraching, Kreis Regensburg",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort@mintraching.de",
+        "link": "https://www.mintraching.de",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.238332504261926,
+          48.983437734652675
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhaus Beerenstark",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Brombeerweg 14",
+        "plz_ort": "93098 Mintraching, Kreis Regensburg",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus-beerenstark.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.195345998286122,
+          48.988553558937355
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Michael Neutraubling",
+        "traeger": "Kath. Kirchenstiftung Neutraubling",
+        "str_hnr": "Gartenzeile 1",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.st-michael.neutraubling@bistum-regensburg.de",
+        "link": "https://www.st-michael-neutraubling.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.192047471897528,
+          48.989941333146064
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Gunther Neutraubling",
+        "traeger": "Kath. Kirchenstiftung Neutraubling",
+        "str_hnr": "Monsignore-Böhm-Straße 1",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.st-gunther.neutraubling@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.200374933474306,
+          48.99338221804959
+        ]
+      },
+      "properties": {
+        "name": "Städtischer Kindergarten Sausewind",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Edith-Frank-Straße 8",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga.sausewind@stadt-neutraubling.de",
+        "link": "https://kinderbetreuung-neutraubling.de/kindergarten-sausewind/",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20946188321832,
+          48.98869706233225
+        ]
+      },
+      "properties": {
+        "name": "Städtischer Kindergarten Heising",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Barbinger Straße 2",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga.heising@stadt-neutraubling.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.198203427724549,
+          48.99175706876091
+        ]
+      },
+      "properties": {
+        "name": "Städtischer Kinderhort",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Schulstraße 5",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort@stadt-neutraubling.de",
+        "link": "https://kinderbetreuung-neutraubling.de/kinderhort/",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.193550645748314,
+          48.992975326160696
+        ]
+      },
+      "properties": {
+        "name": "Städt. Krabbelstube am See",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Uhlandstraße 5a",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krabbelstube@stadt-neutraubling.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.197218074960952,
+          48.986295167505446
+        ]
+      },
+      "properties": {
+        "name": "Kindertagesstätte KROKI",
+        "traeger": "KROKI Neutraubling e.V.",
+        "str_hnr": "Bayerwaldstraße 2c",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "info@kroki-neutraubling.de",
+        "link": "https://www.kroki-neutraubling.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.202022086781312,
+          48.988918570260765
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Moby Dick",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Geschwister-Scholl-Straße 21",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.mobydick@neutraubling.net",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.194132839624677,
+          48.990157171586574
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten am See",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Sudetenstraße 1",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-am-see@stadt-neutraubling.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.212796927917646,
+          48.9847215928127
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten am Tennispark",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Gerhart-Hauptmann-Straße 20",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-am-tennispark@stadt-neutraubling.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.206962251012147,
+          48.97841725340282
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Märchenhaus",
+        "traeger": "Stadt Neutraubling",
+        "str_hnr": "Sterntalerweg 16",
+        "plz_ort": "93073 Neutraubling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "maerchenhaus@stadt-neutraubling.de",
+        "link": "https://kinderbetreuung-neutraubling.de/kindergarten-maerchenhaus/",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.981815112665556,
+          49.03054740661788
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kinderhaus St. Michael ",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Alfred-Wölfel-Straße 2",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "etterzhausen@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960240059599998,
+          49.00971742012979
+        ]
+      },
+      "properties": {
+        "name": "Integrativer BRK Kindergarten Irgendwie Anders",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Am Sportplatz 8",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-irgendwie-anders.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kindergaerten/irgendwie-anders-schoenhofen-1.html",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960564526237867,
+          49.026257390529835
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindertagesstätte St. Katharina Nittendorf",
+        "traeger": "Kath. Kirchenstiftung Nittendorf",
+        "str_hnr": "Talstraße 9",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.nittendorf@bistum-regensburg.de",
+        "link": "https://www.kindergarten.st-katharina-nittendorf.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93369100383107,
+          49.02592924723357
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Josef Undorf",
+        "traeger": "Kath. Kirchenstiftung Undorf",
+        "str_hnr": "Mühlweg 6",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.undorf@bistum-regensburg.de",
+        "link": "https://kiga.stjosefundorf.de/",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949911827980536,
+          49.02361389313801
+        ]
+      },
+      "properties": {
+        "name": "Evang. Kinderhort an der Grundschule Nittendorf",
+        "traeger": "Diakonisches Werk Regensburg e.V.",
+        "str_hnr": "Bernsteinstraße 13",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.nittendorf@dw-regensburg.de",
+        "link": "https://www.diakonie-regensburg.de/",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.950564341937666,
+          49.02301624410616
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Bunte Bernsteinchen",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Bernsteinstraße 13a",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe-bernsteinchen.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_258",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.948674120939149,
+          49.02259602610846
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten Auf der Haide",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Auf der Haide 1",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-auf-der-haide.210@brk.de",
+        "link": "https://www.brk-regensburg.de/",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94849017085004,
+          49.02389264441277
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Birkenstrolche",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Birkenstraße 45",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe-birkenstrolche.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kinderkrippen/birkenstrolche-nittendorf.html",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.960564526237867,
+          49.026257390529835
+        ]
+      },
+      "properties": {
+        "name": "Waldgruppe des Kinderhauses St. Katharina Nittendorf",
+        "traeger": "Kath. Kirchenstiftung Nittendorf",
+        "str_hnr": "Talstraße 9",
+        "plz_ort": "93152 Nittendorf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "kita.nittendorf@bistum-regensburg.de",
+        "link": "https://www.kindergarten.st-katharina-nittendorf.de",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_261",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.164484858988617,
+          48.9659907849242
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Konrad Obertraubling",
+        "traeger": "Kath. Kirchenstiftung St. Georg Obertraubling",
+        "str_hnr": "Piesenkofener Straße 3",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.obertraubling@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.158779141174058,
+          48.96925065900707
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten Regenbogen Obertraubling",
+        "traeger": "Gemeinde Obertraubling",
+        "str_hnr": "Jahnstraße 7",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.regenbogen@t-online.de",
+        "link": "https://www.obertraubling.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.128702387375814,
+          48.95748220879662
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten St. Michael Oberhinkofen",
+        "traeger": "Gemeinde Obertraubling",
+        "str_hnr": "Waldstraße 8",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Kiga_St.Michael_Ohi@t-online.de",
+        "link": "https://www.obertraubling.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.158779141174058,
+          48.96925065900707
+        ]
+      },
+      "properties": {
+        "name": "Krippe Regenbogen",
+        "traeger": "Gemeinde Obertraubling",
+        "str_hnr": "Jahnstraße 7",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.regenbogen@obertraubling.de",
+        "link": "https://www.obertraubling.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.161671276300495,
+          48.96640118699074
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Farbenklecks",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Brunnweg 17a",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.obertraubling@johanniter.de",
+        "link": "https://www.johanniter.de/Hort-Obertraubling",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176824786021628,
+          48.96637064128626
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Rappelkiste",
+        "traeger": "Gemeinde Obertraubling",
+        "str_hnr": "Anno-Santo-Siedlung 64",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten-rappelkiste@t-online.de",
+        "link": "https://www.obertraubling.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.154847243819455,
+          48.96412277780745
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Sonnenschein Obertraubling",
+        "traeger": "Gemeinde Obertraubling",
+        "str_hnr": "Friedenstraße 14",
+        "plz_ort": "93083 Obertraubling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.sonnenschein@t-online.de",
+        "link": "https://www.obertraubling.de/leben-in-obertraubling/kitas-und-schulen/kinderhaus-sonnenschein",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.056192781300323,
+          48.98248908982699
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten Pentling",
+        "traeger": "Gemeinde Pentling",
+        "str_hnr": "Schulstraße 9",
+        "plz_ort": "93080 Pentling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.pentling@t-online.de",
+        "link": "https://www.kiga-pentling.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.052413627430143,
+          48.96492784250209
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten Großberg",
+        "traeger": "Gemeinde Pentling",
+        "str_hnr": "Mühlweg 27",
+        "plz_ort": "93080 Pentling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "kindergarten.grossberg@pentling.de",
+        "link": "https://www.kindergarten-grossberg.de",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.060964708087848,
+          48.97993891883753
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Pentling ",
+        "traeger": "Internationaler Bund e.V.",
+        "str_hnr": "Am Rathaus 3",
+        "plz_ort": "93080 Pentling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe-pentling@ib.de",
+        "link": "https://www.internationaler-bund.de/standort/210582",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.055048422772247,
+          48.967771308582726
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Gipfelstürmer",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Jahnstraße 1a",
+        "plz_ort": "93080 Pentling",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.pentling@johanniter.de",
+        "link": "https://www.johanniter-hort-pentling.de",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.004083951044523,
+          49.058611183783334
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindertagesstätte St. Margareta Pettendorf",
+        "traeger": "Kath. Kirchenstiftung Pettendorf",
+        "str_hnr": "Martin-Klob-Straße 6",
+        "plz_ort": "93186 Pettendorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "margareta.kita@r-kom.net",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00337564713183,
+          49.058139823285536
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Nesthäkchen",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Margarethenstraße 4b",
+        "plz_ort": "93186 Pettendorf, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe.pettendorf@johanniter.de",
+        "link": "https://www.johanniter-kinderkrippe-pettendorf.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.001538219124411,
+          49.057644231451675
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Pettendorf",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Schloßstraße 24a",
+        "plz_ort": "93186 Pettendorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.pettendorf@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kinderhort-pettendorf-2092/",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.037353294732762,
+          49.02760671085329
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhaus Feldmäuse Kneiting",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Zur Alten Mühle 1",
+        "plz_ort": "93186 Pettendorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus.kneiting@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kinderhaus-kneiting-3438/",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.98944359552099,
+          49.05337440958798
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Waldkindergarten Märchenzwerge Pettendorf",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Am Klosterhof 10",
+        "plz_ort": "93186 Pettendorf, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waldkindergarten.pettendorf@johanniter.de",
+        "link": "https://www.johanniter.de/waldkindergarten-pettendorf.de",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.224172062569199,
+          48.85873778100274
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Nikolaus Pfakofen",
+        "traeger": "Kath. Kirchenstiftung Pfakofen",
+        "str_hnr": "Gartenstraße 30b",
+        "plz_ort": "93101 Pfakofen",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.pfakofen@bistum-regensburg.de",
+        "link": "https://www.kinderhaus-pfakofen.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22497333951374,
+          48.85825655348869
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Rappelritter",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Kirchweg 7",
+        "plz_ort": "93101 Pfakofen",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.pfakofen@johanniter.de",
+        "link": "https://www.johanniter.de/Hort-Pfakofen",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388009444095466,
+          48.963935294015066
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Storchennest",
+        "traeger": "Gemeinde Pfatter",
+        "str_hnr": "Straubinger Straße 9",
+        "plz_ort": "93102 Pfatter",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "info@kiha-storchennest.de",
+        "link": "https://www.pfatter.de/leben-in-pfatter/kinderbetreuung/kinderhaus-pfatter",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.374103669701093,
+          48.96003354543238
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Pfatter Außengruppe",
+        "traeger": "Gemeinde Pfatter",
+        "str_hnr": "Jahnstraße 26",
+        "plz_ort": "93102 Pfatter",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "info@kiha-storchennest.de",
+        "link": "https://www.pfatter.de/leben-in-pfatter/kinderbetreuung/kinderhaus-pfatter",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388009444095466,
+          48.963935294015066
+        ]
+      },
+      "properties": {
+        "name": "Waldhörnchen Pfatter",
+        "traeger": "Gemeinde Pfatter",
+        "str_hnr": "Straubinger Straße 9",
+        "plz_ort": "93102 Pfatter",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "info@kiha-storchennest.de",
+        "link": "https://www.pfatter.de/leben-in-pfatter/kinderbetreuung/kinderhaus-pfatter",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_282",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.95622501342365,
+          49.072543101359884
+        ]
+      },
+      "properties": {
+        "name": "Bruder-Konrad-Kinderhaus",
+        "traeger": "Kath. Kirchenstiftung Pielenhofen",
+        "str_hnr": "Klosterstraße 14a",
+        "plz_ort": "93188 Pielenhofen",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.pielenhofen@gmail.com",
+        "link": "https://www.pfarreiengemeinschaft-pettendorf-pielenhofen-wolfsegg.de/pielenhofen/kindergarten.html",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.945837174092775,
+          49.083178522575345
+        ]
+      },
+      "properties": {
+        "name": "Waldkindergarten Pielenhofen",
+        "traeger": "littlebigFuture gGmbH",
+        "str_hnr": "Wiesenweg 1",
+        "plz_ort": "93188 Pielenhofen",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waldkinder-regensburg@littlebigfuture.de",
+        "link": "https://littlebigfuture.de/einrichtungen/waldkinder-regensburg",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.126701978884375,
+          49.125470187545965
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten Arche Noah",
+        "traeger": "Kath. Kirchenstiftung Regenstauf",
+        "str_hnr": "Masurenweg 18",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.regenstauf@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.129909897198063,
+          49.13564572245243
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten am Märchenbrunnen Regenstauf",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Johann-Strauß-Straße 1",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga.maerchenbrunnen@regenstauf.de",
+        "link": "https://www.regenstauf.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.116458468010329,
+          49.129689320631556
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus am Diesenbach",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Sandstraße 19c",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga.diesenbach@regenstauf.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.067034327837327,
+          49.11749955372186
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten Eitlbrunner Dorfzwerge",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Am Sportplatz 1",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga.eitlbrunn@regenstauf.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138923996503221,
+          49.11398473706618
+        ]
+      },
+      "properties": {
+        "name": "Eckert Kinderhaus",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Dr.-Robert-Eckert-Straße 1a",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "eckert.kinderhaus@regenstauf.de",
+        "link": "https://www.regenstauf.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.129690240705521,
+          49.13497139444424
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe am Märchenbrunnen",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Am Grasigen Weg 7",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe.maerchenbrunnen@regenstauf.de",
+        "link": "https://www.regenstauf.de/leben-in-regenstauf/kinderbetreuung-und-bildung/kindertagesstaetten/kinderkrippe-am-maerchenbrunnen-regenstauf",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.127021519361497,
+          49.122644818125934
+        ]
+      },
+      "properties": {
+        "name": "Krippe im ehemaligen Kloster",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Kirchplatz 2",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe.maerchenbrunnen@regenstauf.de",
+        "link": "https://www.regenstauf.de/leben-in-regenstauf/kinderbetreuung-und-bildung/kindertagesstaetten/kinderkrippe-am-maerchenbrunnen-regenstauf",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.060472533404852,
+          49.11945629869585
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Steinsberger Dorfzwerge",
+        "traeger": "Markt Regenstauf",
+        "str_hnr": "Pfalzgrafenstraße 2",
+        "plz_ort": "93128 Regenstauf",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Kiha.Steinsberg@regenstauf.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.139050724274805,
+          48.83916063236995
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Michael Schierling",
+        "traeger": "Kath. Kirchenstiftung Schierling",
+        "str_hnr": "Jakob-Brand-Straße 1a",
+        "plz_ort": "84069 Schierling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.st-michael@bistum-regensburg.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140863763360368,
+          48.83158528116615
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Wolfgang Schierling",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Waldstraße 22",
+        "plz_ort": "84069 Schierling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "st-wolfgang.schierling@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.185684318525514,
+          48.84056151820041
+        ]
+      },
+      "properties": {
+        "name": "Haus für Kinder Grüne Villa",
+        "traeger": "Markt Schierling",
+        "str_hnr": "Schulstraße 5",
+        "plz_ort": "84069 Schierling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kita-gruenevilla@schierling.de",
+        "link": "https://www.kita-gruene-villa.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14413369444217,
+          48.83046213618273
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Spatzennest",
+        "traeger": "Markt Schierling",
+        "str_hnr": "Jahnstraße 17",
+        "plz_ort": "84069 Schierling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita-gruenevilla@schierling.de",
+        "link": "https://www.kita-gruene-villa.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.140207323351596,
+          48.826657876827724
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Schneckenhaus",
+        "traeger": "Markt Schierling",
+        "str_hnr": "Heinrich-Heine-Straße 8",
+        "plz_ort": "84069 Schierling",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita-gruenevilla@schierling.de",
+        "link": "https://www.kita-gruene-villa.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.133158629377393,
+          48.844393315985286
+        ]
+      },
+      "properties": {
+        "name": "Haus für Kinder Bunte Au ",
+        "traeger": "Markt Schierling",
+        "str_hnr": "Agana-Frohnauer-Straße 1",
+        "plz_ort": "84069 Schierling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "bunteau@schierling.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.185842030821723,
+          48.839513690182095
+        ]
+      },
+      "properties": {
+        "name": "Kindergarten Grüne Villa",
+        "traeger": "Markt Schierling",
+        "str_hnr": "Zaitzkofener Straße 7",
+        "plz_ort": "84069 Schierling",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita-gruenevilla@schierling.de",
+        "link": "https://www.kita-gruene-villa.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.144653462123777,
+          48.831293773486685
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderhaus Schierlinger Ganserl",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Fruehaufstraße 3",
+        "plz_ort": "84069 Schierling",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Kinderhaus.schierling@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kinderhaus-schierling-3918",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.034471940399538,
+          48.98734688937696
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Michael Sinzing",
+        "traeger": "Kath. Kirchenstiftung Mariä Himmelfahrt, Sinzing",
+        "str_hnr": "Adolph-Kolping-Straße 1",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "leitung@kindergarten-sinzing.de",
+        "link": "https://www.kindergarten-sinzing.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.978278293936468,
+          49.00446366033922
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Wolfgang Eilsbrunn",
+        "traeger": "Kath. Kirchenstiftung Eilsbrunn",
+        "str_hnr": "Am Ehgarten 2",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.eilsbrunn@t-online.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.96295793490794,
+          48.981447035333865
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus St. Marien",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Schulstraße 5",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "viehhausen@caritas-kitas.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.033497966014242,
+          48.988813185895125
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderhort Starkids",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Bergstraße 11",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "hort-sinzing.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.033497966014242,
+          48.988813185895125
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Sinzinger Winzlinge",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Bergstraße 11",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe-winzlinge.210@brk.de",
+        "link": "https://www.brk-regensburg.de/leistungen/kinderkrippen/sinzinger-winzlinge.html ",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.038935621976687,
+          48.99268863611954
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Donaufischerl",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Fährenweg 9",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "donaufischerl@kvregensburg.brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.012718537350876,
+          49.00595024952117
+        ]
+      },
+      "properties": {
+        "name": "Waldkinder Sinzing",
+        "traeger": "h \u0026 b learning gemeinnützige GmbH",
+        "str_hnr": "Rieglinger Höhe 3",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "wkg.sinzing@hb-learning.de",
+        "link": "https://hb-learning.de",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.036734833466145,
+          48.991355101275175
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus St. Markus Sinzing",
+        "traeger": "Evang.-Luth. Kirchengemeinde St. Markus",
+        "str_hnr": "Bruckdorfer Straße 3",
+        "plz_ort": "93161 Sinzing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus@markuskirche-regensburg.de",
+        "link": "https://www.markuskirche-regensburg.de/Kinderhaus",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.356824288349207,
+          48.87992088568548
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Pusteblume Sünching",
+        "traeger": "Gemeinde Sünching",
+        "str_hnr": "Schulstraße 26a",
+        "plz_ort": "93104 Sünching",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "kinderhaus-pusteblume@vg-suenching.de",
+        "link": "https://www.suenching.de/leben-in-suenching/kinderbetreuung/kinderhaus-pusteblume-suenching",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.349639343646947,
+          48.88062376987901
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Wirbelwind",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Regensburger Straße 31 1/5",
+        "plz_ort": "93104 Sünching",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "hort-suenching@johanniter.de",
+        "link": "https://www.johanniter.de/Hort-Suenching",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.353437372618354,
+          48.87878035468168
+        ]
+      },
+      "properties": {
+        "name": "Montessori Kinderhaus Sünching",
+        "traeger": "Montessori Fördergemeinschaft Sünching u. Umgebung e.V.",
+        "str_hnr": "Krankenhausstraße 2",
+        "plz_ort": "93104 Sünching",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "kh@montessori-suenching.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.356102205298795,
+          48.88035080756842
+        ]
+      },
+      "properties": {
+        "name": "Kinderkrippe Pusteblume",
+        "traeger": "Gemeinde Sünching",
+        "str_hnr": "Schulstraße 26 a",
+        "plz_ort": "93104 Sünching",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe-pusteblume@vg-suenching.de",
+        "link": "",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.173660251675443,
+          49.02049659835652
+        ]
+      },
+      "properties": {
+        "name": "Kath. Schutzengelkindergarten Tegernheim",
+        "traeger": "Kath. Kirchenstiftung Tegernheim",
+        "str_hnr": "Kirchstraße 16",
+        "plz_ort": "93105 Tegernheim",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "schutzengel.tegernheim@kita.bistum-regensburg.de",
+        "link": "https://www.schutzengelkindergarten.de",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.168559246947797,
+          49.026893061639655
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kindergarten Zauberwald",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Schulstraße 4",
+        "plz_ort": "93105 Tegernheim",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.tegernheim@johanniter.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.168246181128726,
+          49.02684759107766
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Wiesenzwerge",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Schulstraße 4a",
+        "plz_ort": "93105 Tegernheim",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.tegernheim@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kinderkrippe-wiesenzwerge-1513",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.16979611055456,
+          49.028242876722366
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Tegernheim",
+        "traeger": "Diakonisches Werk Regensburg e.V.",
+        "str_hnr": "Tegernheimer Kellerstraße 41  b",
+        "plz_ort": "93105 Tegernheim",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus@dw-regensburg.de",
+        "link": "https://www.diakonie-regensburg.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17086600824399,
+          49.03862010918429
+        ]
+      },
+      "properties": {
+        "name": "Waldkinder Tegernheim",
+        "traeger": "littlebigFuture gGmbH",
+        "str_hnr": "Zur Hohen Linie 63",
+        "plz_ort": "93055 Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "waldkinder-tegernheim@littlebigfuture.de",
+        "link": "https://littlebigfuture.de/einrichtungen/waldkinder-tegernheim/",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.151397026990182,
+          48.907444817259794
+        ]
+      },
+      "properties": {
+        "name": "Bonifaz-Wimmer-Kinderhaus",
+        "traeger": "Kath. Kirchenstiftung Thalmassing",
+        "str_hnr": "Luckenpainter Straße 20",
+        "plz_ort": "93107 Thalmassing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "KIGA-Bonifaz-wimmer@t-online.de",
+        "link": "http://www.pfarrei-thalmassing.de/de/index.php",
+        "einrichtungstypen_liste": "Krippe, Kindergarten, Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.16216477305183,
+          48.9113703876706
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus St. Nikolaus",
+        "traeger": "Diakonisches Werk Regensburg e.V.",
+        "str_hnr": "Hausinger Straße 10",
+        "plz_ort": "93107 Thalmassing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "st.nikolaus@dw-regensburg.de",
+        "link": "https://www.diakonie-regensburg.de/familie-kids/kindertagesstaetten/kinderhaus-st-nikolaus",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.155976238541417,
+          48.91256678753334
+        ]
+      },
+      "properties": {
+        "name": "BRK Kinderkrippe Löwenzähnchen",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Hauptstraße 26",
+        "plz_ort": "93107 Thalmassing, Oberpfalz",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krippe-loewenzaehnchen.210@brk.de",
+        "link": "https://www.brk.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.195845817674984,
+          49.0738184218067
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Abenteuerland",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Pestalozzistraße 13",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.wenzenbach@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-wenzenbach",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.161893086607346,
+          49.06546738313273
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten an der Grundschule Irlbach",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Grünthaler Straße 10",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.irlbach@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-irlbach",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.163656737296183,
+          49.06651696473041
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindertagesstätte St. Maria Irlbach",
+        "traeger": "Kath. Kirchenstiftung Irlbach",
+        "str_hnr": "Silbertalstraße 2",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.irlbach@bistum-regensburg.de",
+        "link": "https://www.kita-irlbach.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.161893086607346,
+          49.06546738313273
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Hort an der Grundschule Irlbach",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Grünthaler Straße 10",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.irlbach@johanniter.de",
+        "link": "https://www.johanniter.de/juh/lv-bayern/rv-ostbayern/unsere-standorte-einrichtungen-in-ostbayern/einrichtungs-einzelansicht/johanniter-kinderhort-irlbach-1354",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_324",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.193016218934662,
+          49.074357933345034
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe Zaubergarten",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Hauptstraße 52",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.wenzenbach@johanniter.de",
+        "link": "https://johanniter.de/Kinderkrippe-Wenzenbach",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.193270109039325,
+          49.07464574970551
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Räuberhöhle",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Hauptstraße 50",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.wenzenbach@johanniter.de",
+        "link": "https://www.johanniter.de/Hort-Wenzenbach",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.189476279041417,
+          49.07639279044182
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderkrippe an der Mittelschule",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Roither Weg 15",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe.mittelschule@johanniter.de",
+        "link": "https://www.johanniter.de/kinderkrippe-mittelschule-wenzenbach",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.189263339769251,
+          49.07556623448967
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhaus Laubfrösche",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Roither Weg 15a",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kita.wenzenbach@johanniter.de",
+        "link": "https://www.johanniter.de/kinderhaus-laubfroesche",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.197205711683216,
+          49.0780344604225
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Kinderhaus Storchennest",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Jahnweg 4",
+        "plz_ort": "93173 Wenzenbach",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "Kinderhaus.wenzenbach@johanniter.de",
+        "link": "https://www.johanniter.de/kinderhaus-wenzenbach",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.378898190573773,
+          49.00546937094219
+        ]
+      },
+      "properties": {
+        "name": "Kinderhaus Wiesent mit Naturgruppe",
+        "traeger": "Gemeinde Wiesent",
+        "str_hnr": "Bahnhofstraße 15",
+        "plz_ort": "93109 Wiesent",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten@wiesent.de",
+        "link": "https://www.kinderhaus-wiesent.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.398964801416035,
+          48.99828427865358
+        ]
+      },
+      "properties": {
+        "name": "Caritas-Kinderkrippe Wörth",
+        "traeger": "Caritasverband für die Diözese Regensburg e.V.",
+        "str_hnr": "Hoher Rain 2",
+        "plz_ort": "93086 Wörth an der Donau",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus@caritas-woerth.de",
+        "link": "https://www.caritas-regensburg.de/beratenundhelfen/familien/kindertageseinrichtungen/kindertageseinrichtungen",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.398663543326657,
+          49.01116156109913
+        ]
+      },
+      "properties": {
+        "name": "Caritas-Kinderhaus Wörth",
+        "traeger": "Caritasverband für die Diözese Regensburg e.V.",
+        "str_hnr": "Am Brand 4",
+        "plz_ort": "93086 Wörth an der Donau",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderhaus@caritas-woerth.de",
+        "link": "https://www.caritas-regensburg.de/beratenundhelfen/familien/kindertageseinrichtungen/kindertageseinrichtungen",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.409657576827502,
+          49.00219064941917
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten kinder-reich",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Schußhütte 3",
+        "plz_ort": "93086 Wörth an der Donau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-kinder-reich.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.408335249333668,
+          49.003597792770385
+        ]
+      },
+      "properties": {
+        "name": "BRK Kindergarten kinder-burg",
+        "traeger": "BRK Kreisverband Regensburg",
+        "str_hnr": "Schulstraße 1",
+        "plz_ort": "93086 Wörth an der Donau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kiga-kinder-reich.210@brk.de",
+        "link": "",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.398663543326657,
+          49.01116156109913
+        ]
+      },
+      "properties": {
+        "name": "Caritas-Waldkindergarten Wörth",
+        "traeger": "Caritasverband für die Diözese Regensburg e.V.",
+        "str_hnr": "Am Brand 4",
+        "plz_ort": "93086 Wörth an der Donau",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "kinderhaus@caritas-woerth.de",
+        "link": "https://www.caritas-regensburg.de/beratenundhelfen/familien/kindertageseinrichtungen/kindertageseinrichtungen",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.973404797541574,
+          49.106017878371084
+        ]
+      },
+      "properties": {
+        "name": "Haus für Kinder St. Marien, Wolfsegg",
+        "traeger": "Caritas Kindertageseinrichtungen im Bistum Regensburg gGmbH",
+        "str_hnr": "Kolpingstraße 2",
+        "plz_ort": "93195 Wolfsegg, Oberpfalz",
+        "krippe": true,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "wolfsegg@caritas-kitas.de",
+        "link": "https://caritas-kitas.de",
+        "einrichtungstypen_liste": "Krippe, Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.111919731113508,
+          49.098661842022175
+        ]
+      },
+      "properties": {
+        "name": "Kath. Kindergarten St. Bartholomäus Zeitlarn",
+        "traeger": "Kath. Kirchenstiftung Zeitlarn",
+        "str_hnr": "Sandheimer Straße 1",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.bartholomaeus@googlmail.com",
+        "link": "https://www.pg-mariamagdalena.de/einrichtungen/kindergarten-zeitlarn",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.11258399887697,
+          49.096580013718096
+        ]
+      },
+      "properties": {
+        "name": "Marienkindergarten",
+        "traeger": "Kath. Kirchenstiftung Zeitlarn",
+        "str_hnr": "Zeitlarner Straße 4",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "marienkindergartenlaub@gmail.de",
+        "link": "https://www.pg-mariamagdalena.de/einrichtungen/kindergarten-laub",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.115347165218656,
+          49.08140171057232
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kindergarten Zeitlarner Bienenstock",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Aussiger Straße 10",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kindergarten.zeitlarn@johanniter.de",
+        "link": "https://www.johanniter.de/kindergarten-zeitlarn ",
+        "einrichtungstypen_liste": "Kindergarten"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.110528311066469,
+          49.07954256626663
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Kinderhort Schlaufüchse",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Schulstraße 5",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": false,
+        "kindergarten": false,
+        "schulkindbetreuung": true,
+        "waldgruppe": false,
+        "mail": "kinderhort.zeitlarn@johanniter.de",
+        "link": "https://www.johanniter.de/Hort-Zeitlarn",
+        "einrichtungstypen_liste": "Schulkindbetreuung"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.115347165218656,
+          49.08140171057232
+        ]
+      },
+      "properties": {
+        "name": "Johanniter-Krabbelstube Zeitlarn",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Aussiger Straße 10",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "krabbelstube.zeitlarn@johanniter.de",
+        "link": "https://www.johanniter.de/Krabbelstube-Zeitlarn ",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.099046120938663,
+          49.09765025894329
+        ]
+      },
+      "properties": {
+        "name": "Johanniter Waldkindergarten RiesenZwergerl",
+        "traeger": "Johanniter-Unfall-Hilfe e.V. Regionalverband Ostbayern",
+        "str_hnr": "Holzgartenweg 24",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": false,
+        "kindergarten": true,
+        "schulkindbetreuung": false,
+        "waldgruppe": true,
+        "mail": "Waldkindergarten.Zeitlarn@johanniter.de",
+        "link": "https://www.johanniter.de/waldkindergarten-zeitlarn",
+        "einrichtungstypen_liste": "Kindergarten, , Waldgruppe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    },
+    {
+      "type": "Feature",
+      "id": "APP_ALLE_KINDERTAGESEINRICHTUNGEN_342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.106209137151277,
+          49.091906550817534
+        ]
+      },
+      "properties": {
+        "name": "AWO Kinderkrippe Regendorf",
+        "traeger": "AWO Anderland gemeinnützige GmbH",
+        "str_hnr": "Waldheimstraße 14",
+        "plz_ort": "93197 Zeitlarn bei Regensburg",
+        "krippe": true,
+        "kindergarten": false,
+        "schulkindbetreuung": false,
+        "waldgruppe": false,
+        "mail": "kinderkrippe-regendorf@awo-ndb-opf.de",
+        "link": "http://www.awo-kinderkrippe-regendorf.de",
+        "einrichtungstypen_liste": "Krippe"
+      },
+      "srsName": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "self",
+      "type": "application/geo+json",
+      "title": "this document as JSON"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "alternate",
+      "type": "text/html",
+      "title": "this document as HTML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "alternate",
+      "type": "application/gml+xml",
+      "title": "this document as GML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "alternate",
+      "type": "application/gml+xml;version\u003d3.2",
+      "title": "this document as GML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "alternate",
+      "type": "application/gml+xml;version\u003d3.2;profile\u003d\"http://www.opengis.net/def/profile/ogc/2.0/gml-sf0\"",
+      "title": "this document as GML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen/items?bulk\u003dtrue",
+      "rel": "alternate",
+      "type": "application/gml+xml;version\u003d3.2;profile\u003d\"http://www.opengis.net/def/profile/ogc/2.0/gml-sf2\"",
+      "title": "this document as GML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen",
+      "rel": "collection",
+      "type": "application/json",
+      "title": "Collection as JSON"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen",
+      "rel": "collection",
+      "type": "text/html",
+      "title": "Collection as HTML"
+    },
+    {
+      "href": "https://geoportal.landkreis-regensburg.de/ogcapi/datasets/kindertageseinrichtungen/collections/Alle_Kindertageseinrichtungen",
+      "rel": "collection",
+      "type": "application/xml",
+      "title": "Collection as XML"
+    }
+  ],
+  "numberMatched": 171,
+  "numberReturned": 171,
+  "timeStamp": "2026-06-13T15:50:17.026Z",
+  "crs": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+}
