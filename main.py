@@ -29,6 +29,11 @@ lkr.boundary.plot(ax=ax, color = boundary_color, linewidth = 0.5)
 kitas.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
 ax.legend()
 plt.show()
+f.savefig(
+    "lkr_regensburg_kitas.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
 
 #Child under 3 years >> Krippen
 krippen = kitas[(kitas['krippe'] == True)]
@@ -41,6 +46,11 @@ kitas_ohne_krippe.plot(ax = ax, marker= 'x', markersize= 10, color = marker_kita
 krippen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_krippe_color, label = 'Krippe')
 ax.legend()
 plt.show()
+f.savefig(
+    "lkr_regensburg_krippen.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
 
 #Use Beratzhausen as example
 beratzhausen = ox.geocode_to_gdf('Beratzhausen, Landkreis Regensburg, Bavaria, 93176, Germany') #geodataframe Gemeinde Beratzhausen
@@ -63,6 +73,11 @@ beratz_buildings.plot(ax = ax, color = buildings_color, alpha = 0.6)
 kitas_beratzhausen.plot(ax = ax, marker= 'x', markersize= 25, color = marker_kita_color, label = 'Kita')
 ax.legend()
 plt.show()
+f.savefig(
+    "beratzhausen_kitas.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
 
 #Krippen in Beratzhausen
 krippen_beratzhausen = kitas_beratzhausen[(kitas_beratzhausen['krippe'] == True)]
@@ -82,6 +97,11 @@ ax.legend()
 for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
     ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 10)
 plt.show()
+f.savefig(
+    "beratzhausen_krippen.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
 
 
 #Plot Krippen in Beratzhausen
@@ -104,6 +124,10 @@ ax.legend()
 for x, y, label in zip(krippen_beratzhausen.geometry.x, krippen_beratzhausen.geometry.y, krippen_beratzhausen.name):
     ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points", color = 'black', fontsize = 20)
 plt.show()
-
+f.savefig(
+    "beratzhausen_krippen_ausschnitt.svg",
+    dpi=400,
+    bbox_inches="tight"
+)
 
 print('hjg')
